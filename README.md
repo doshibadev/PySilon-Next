@@ -142,10 +142,9 @@ PySilon-Next allows you to control a target PC entirely through Discord:
 
 Support the development of PySilon-Next:
 
-*   **XMR:** `INPUT_ADDRESS`
-*   **BTC:** `INPUT_ADDRESS`
-*   **ETH:** `INPUT_ADDRESS`
-*   **LTC:** `INPUT_ADDRESS`
+*   **BTC:** `bc1qynv5fv0l0w63f3t6luumcwhtj62w92r95ujymm`
+*   **ETH:** `0x9dabA82e926508D3713D96957296BAfd9e614dFb`
+*   **LTC:** `Le1sXX11ih3cZEbJDqAM4rfkLCrHrW1JWV`
 
 ---
 

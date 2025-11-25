@@ -10,7 +10,7 @@
 **Advanced Remote Administration Tool written in Python, fully controllable through Discord.**
 
 [![Python](https://img.shields.io/badge/Python-3.13.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Wiki](https://img.shields.io/badge/Wiki-Documentation-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/doshibadev/PySilon-Next/wiki)
+[![Wiki](https://img.shields.io/badge/Wiki-Documentation-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://doshibadev.github.io/PySilon-Next-Docs/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </span>
@@ -99,7 +99,7 @@ PySilon-Next allows you to control a target PC entirely through Discord:
     ```
 
 2.  **Setup:**
-    *   Follow the [Wiki Guide](https://github.com/doshibadev/PySilon-Next/wiki/Setup) to create your Discord Bot and Server.
+    *   Follow the [Wiki Guide](https://doshibadev.github.io/PySilon-Next-Docs/setup) to create your Discord Bot and Server.
 
 3.  **Run the Builder:**
     *   **Windows:** Double click `PySilon.bat` or run in CMD.
@@ -134,7 +134,7 @@ PySilon-Next allows you to control a target PC entirely through Discord:
 | `.critical-enable` | Elevate process to critical (BSOD on kill) |
 | `.implode` | Completely remove PySilon from target and clean evidence |
 
-*For a full list of commands and detailed usage, check the [Wiki](https://github.com/doshibadev/PySilon-Next/wiki).*
+*For a full list of commands and detailed usage, check the [Wiki](https://doshibadev.github.io/PySilon-Next-Docs/).*
 
 ---
 

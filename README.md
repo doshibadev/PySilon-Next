@@ -2,7 +2,9 @@
 
 # PySilon-Next
 
-<img src=".github/images/PySilonNextImage.png" width="500" align="center" />
+<p align="center">
+  <img src=".github/images/PySilonNextImage.png" width="500">
+</p>
 
 ### The Next Generation of Python RAT
 **Advanced Remote Administration Tool written in Python, fully controllable through Discord.**
